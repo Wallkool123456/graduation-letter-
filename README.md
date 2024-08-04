@@ -101,7 +101,11 @@ Hy vọng lá thư này sẽ mang lại cho **Nam Phương** niềm vui và sự
 
 # **HOÀNG NAM PHƯƠNG**
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+
  <img src="https://github.com/Wallkool123456/graduation-letter-/blob/master/tốt nghiệp rồi nhé.jpg" alt="Image 1" width="300"/>
+ 
+</div>
 
 
 Vid sinh nhật 21 ném đây luôn dow mới dùng đc : [LINK HERE FOR PHONE](https://github.com/Wallkool123456/graduation-letter-/blob/master/21-10-2023-%5B2M-2D%5D%20HNP.mp4), [LINK HERE FOR MAY TINH](https://github.com/Wallkool123456/graduation-letter-/blob/master/21-10-2023-%5B2M-2D%5D.mov)
