@@ -1,9 +1,17 @@
+<img src="https://github.com/Wallkool123456/graduation-letter-/blob/master/_Private%20digital%20letter%20for%20Ho%C3%A0ng%20Nam%20Ph%C6%B0%C6%A1ng's%20graduation%20ceremony._.png" alt="Image 1" width="1200"/>
+                                                       
                                                         W(NEU)toP(HUP)/03/08/24
 
+<br>
+
 # 🎓 Chúc mừng tốt nghiệp, **Nam Phương**! 🎉
+<br>
 
 Chào **Nam Phương**, ( Private Digital Letter nhé! )  
 W đây! Vậy là cuối cùng **Nam Phương** cũng đã tốt nghiệp Đại học. Chắc W cũng sắp tốt nghiệp rồi (BTW 25/08/2024/NEU/Hanoi nha). 
+<br>
+
+---
 
 <details>
 <summary>Nếu muốn đọc thì bấm vào ạ. Đây là đôi lời từ Trần Đức Thái</summary>
@@ -34,6 +42,9 @@ Khụ khụ nay mua hoa cho nàng bị sốt hic. Trân trọng Thái đi!
   <img src="https://github.com/Wallkool123456/graduation-letter-/blob/master/z5693599848592_77a414b376538d0adff86d3a03f323c9.jpg" alt="Image 6" width="300"/>
 </div>
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github.com/Wallkool123456/graduation-letter-/blob/master/z5693961990542_d89f311b1354896589a72c6cdfcd9297.jpg" alt="Image 2" width="300"/>
+</div>
 
 <br>
 <br>
@@ -89,5 +100,8 @@ Hy vọng lá thư này sẽ mang lại cho **Nam Phương** niềm vui và sự
 </pre>
 
 # **HOÀNG NAM PHƯƠNG**
+
+ <img src="https://github.com/Wallkool123456/graduation-letter-/blob/master/tốt nghiệp rồi nhé.jpg" alt="Image 1" width="300"/>
+
 
 Vid sinh nhật 21 ném đây luôn dow mới dùng đc : [LINK HERE FOR PHONE](https://github.com/Wallkool123456/graduation-letter-/blob/master/21-10-2023-%5B2M-2D%5D%20HNP.mp4), [LINK HERE FOR MAY TINH](https://github.com/Wallkool123456/graduation-letter-/blob/master/21-10-2023-%5B2M-2D%5D.mov)
